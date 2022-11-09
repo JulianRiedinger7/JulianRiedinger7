@@ -15,9 +15,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on a project about a videogame called Valorant, a 5v5 tactical shooter game. In this project you can select your favourite agent from the game, your competitive rank and your favourite esports team!
-
 - 🌱 I’m currently learning Javascript and React 
 
 - 👯 I’m looking to collaborate on Frontend projects. I would love to be a frontend engineer in any videogames company. 

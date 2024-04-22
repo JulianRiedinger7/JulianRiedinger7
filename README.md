@@ -22,7 +22,7 @@ I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :seedling: I’m improving my skills by learning the new Automation tools tendencies in the market like Playwright.  
 
-- :zap: In my free time, i like to do exercies like Boxing or Gym and also i realy like videogames, online and competitive ones.
+- :zap: In my free time, i like to do exercise like Boxing or Gym and also i realy like videogames, online and competitive ones.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Julian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-riedinger/)
 
